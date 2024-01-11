@@ -1,0 +1,65 @@
+*  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1  {
+    text-align: center;
+}
+
+.inputTab  {  
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    margin: 15px auto 0; 
+    gap: 10px;
+}
+
+.inputTab input {
+    width: 200px;
+    margin: auto;
+
+}
+
+.inputTab label  {
+    margin: auto;
+}
+
+.inputTab label:hover  {
+    color: yellow;
+}
+
+.checkBox  {
+    display: flex;
+    gap: 30px;
+}
+
+.checkBox  label {
+    display: inline-block;
+    width: 80%;
+}
+.checkBox  input {
+    width: 20%;
+}
+
+button  {
+    width: 200px;
+    margin: 15px auto;
+    background-color: rgb(170, 110, 81);
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px black;
+    border: 1px solid white;
+    color: white;
+    font-size: 1.2rem;
+}
+
+@media screen and (max-width : 806px) {
+    .checkBox  {
+        flex-direction: column;
+        width: 90%;
+    }
+}
+
