@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AFPA_AppMeteo/static/css/main.d74bb5ce.css",
+    "main.js": "/AFPA_AppMeteo/static/js/main.993c1c0d.js",
+    "static/js/787.d70d452e.chunk.js": "/AFPA_AppMeteo/static/js/787.d70d452e.chunk.js",
+    "static/media/nuages2.webp": "/AFPA_AppMeteo/static/media/nuages2.933600fb377f5672a54b.webp",
+    "index.html": "/AFPA_AppMeteo/index.html",
+    "main.d74bb5ce.css.map": "/AFPA_AppMeteo/static/css/main.d74bb5ce.css.map",
+    "main.993c1c0d.js.map": "/AFPA_AppMeteo/static/js/main.993c1c0d.js.map",
+    "787.d70d452e.chunk.js.map": "/AFPA_AppMeteo/static/js/787.d70d452e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d74bb5ce.css",
+    "static/js/main.993c1c0d.js"
+  ]
+}
